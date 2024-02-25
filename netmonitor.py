@@ -29,6 +29,6 @@ def packet_callback(packet):
 
         
 def start_sniffing(interface):
-    sniff(iface=interface, prn=packet_callback,store=0, count =100) #count currently set to 100 for demonstration purposes
+    sniff(iface=interface, prn=packet_callback,store=0, count =200) #count currently set to 200 for testing purposes
 
 start_sniffing("Wi-Fi")
