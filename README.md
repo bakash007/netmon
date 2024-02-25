@@ -1,10 +1,10 @@
-#NETMON
+# NETMON
 
-##Requirements
--scapy
--psutil
+## Requirements
+- scapy
+- psutil
 
-##Instructions
+## Instructions
 
 Install the requirements by executing this in the command shell:
 
