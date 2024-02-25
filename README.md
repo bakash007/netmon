@@ -7,6 +7,9 @@
 ## Instructions
 Open terminal
 Enter the following commands:
+```
+winget install npcap
+```
 
 ```
 git clone https://github.com/bakash007/netmon
