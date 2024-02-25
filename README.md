@@ -8,5 +8,7 @@
 
 Install the requirements by executing this in the command shell:
 
-'pip install -r requirement.txt'
+```
+pip install -r requirement.txt
+```
 
